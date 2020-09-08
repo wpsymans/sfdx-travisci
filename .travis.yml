@@ -1,4 +1,5 @@
 sudo: true
+os: linux
 dist: trusty
 cache: false
 env:
